@@ -1,0 +1,32 @@
+h1 {
+font-family: 'Source Code Pro', monospace;
+text-align: center;
+padding: 5%;
+}
+
+.fname {
+    font-family: 'Source Code Pro', monospace;
+    text-align: center;
+    font-size: medium;
+}
+
+form i {
+    margin-left: -30px;
+    cursor: pointer;
+} 
+
+input {
+    height: 25px;
+    width: 250px;
+
+}
+
+.Sbtn {
+    background-color:#006bb3;
+    color: white;
+    height: 30px;
+    width: 150px;
+    text-align: center;
+    font-family: 'Source Code Pro', monospace;
+    font-size: 20px;
+}

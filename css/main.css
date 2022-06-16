@@ -19,12 +19,8 @@ li a {
   text-decoration: none;
 }
   
-li a:hover:not(.active) {
+li a:hover {
   background-color: #ef8e43;
-}
-  
-.active {
-  background-color: #f3b88c;
 }
 
 footer {
