@@ -4,10 +4,19 @@ text-align: center;
 padding: 5%;
 }
 
-.fname {
+.login {
     font-family: 'Source Code Pro', monospace;
+    padding-top:  25px;
     text-align: center;
     font-size: medium;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+    height: 250px;
+    background: white;
+    border-radius: 10px;
 }
 
 form i {
@@ -25,7 +34,7 @@ input {
     background-color:#006bb3;
     color: white;
     height: 30px;
-    width: 150px;
+    width: 200px;
     text-align: center;
     font-family: 'Source Code Pro', monospace;
     font-size: 20px;
