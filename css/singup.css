@@ -1,5 +1,10 @@
+body{
+    background-color: #ccccff;
+    margin: 0%;
+    padding: 0%;
+}
 
-.login {
+.user{
     font-family: 'Source Code Pro', monospace;
     font-size: medium;
     position: absolute;
@@ -7,13 +12,11 @@
     left: 50%;
     transform: translate(-50%, -50%);
     width: 400px;
-    height: 400px;
+    height: 500px;
     background: white;
     border-radius: 25px;
     text-align: center;
-
 }
-
 
 input {
     height: 25px;
@@ -33,10 +36,8 @@ input {
     border-radius: 10px;
 }
 
-
 form label{
     display: flex;
-    margin-top: 20px;
     font-size: 18px;
     margin-left: 70px;
 }
